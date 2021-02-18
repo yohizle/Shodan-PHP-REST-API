@@ -4,7 +4,7 @@
 require_once 'Colors.php';
 require_once 'Shodan.php';
 
-$key = 'Insert your API key here';
+$key = Q23gTHBgeEpIU5DhTn6DykIPoAo9m8ZC;
 $client = new Shodan($key, TRUE);
 $colors = new Colors();
 
